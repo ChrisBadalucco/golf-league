@@ -8770,4 +8770,7 @@ button.close {
   }
 }
 /*shared*/
-/*index*/
+/* line 1, ../../sass/league/_index.scss */
+form {
+  width: 500px;
+}
